@@ -1,5 +1,5 @@
-//INFORME A NOTA: 55
-//SUA NOTA É 55.00
+//INFORME A NOTA: 55 (EXEMPLO)
+//SUA NOTA É 55.00 (EXEMPLO)
 
 #include <stdio.h>
 #include <stdlib.h>
