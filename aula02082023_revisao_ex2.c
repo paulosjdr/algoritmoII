@@ -1,6 +1,7 @@
-
-
-
+//INFORME A NOTA: 55 (EXEMPLO)
+//1.VOCÊ FOI APROVADO
+//2.VOCÊ FOI REPROVADO
+//3.VOCÊ ESTÁ DE RECUPERAÇÃO
 
 #include <stdio.h>
 #include <stdlib.h>
