@@ -3,7 +3,7 @@
 //2.VOCÊ FOI REPROVADO
 //3.VOCÊ ESTÁ DE RECUPERAÇÃO
 //OTIMIZAR O RECURSO IF
-//COLOCAR TRÊS ALUNOS
+//LER A NOTA DE TRÊS ALUNOS
 
 #include <stdio.h>
 #include <stdlib.h>
