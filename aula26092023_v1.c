@@ -1,3 +1,5 @@
+//Faça um programa que leia dois números inteiros, caso os dois forem pares imprima na tela "São pares".
+
 #include <iostream>
 
 using namespace std;
