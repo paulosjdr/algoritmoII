@@ -15,7 +15,7 @@ int main()
     scanf("%d", &B);
 
     if(A%2==0 && B%2==0)
-        printf("São pares");
+        printf("São pares\n");
 
     return 0;
 }
