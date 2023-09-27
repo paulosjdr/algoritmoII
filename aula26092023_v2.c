@@ -10,10 +10,12 @@ void leitura(int &A, int &B){
     scanf("%d", &B);
 }
 
-void pares(int A, int B){
+int pares(int A, int B){
     if(A%2==0 && B%2==0){
         printf("São pares\n");
+        return 1;
     }
+    return 0;
 }
 
 int main()
