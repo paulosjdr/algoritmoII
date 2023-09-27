@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int leitura(int &A, int &B){
+void leitura(int &A, int &B){
     printf("Digite o valor de A: \n");
     scanf("%d", &A);
 
@@ -10,7 +10,7 @@ int leitura(int &A, int &B){
     scanf("%d", &B);
 }
 
-int pares(int &A, int &B){
+void pares(int A, int B){
     if(A%2==0 && B%2==0)
         printf("São pares\n");
 }
@@ -19,10 +19,10 @@ int main()
 {
     setlocale(LC_ALL, "");
 
-    int A, B;
+    int X, Y;
 
-    leitura(A, B);
-    pares(A, B);
+    leitura(X, Y);
+    pares(X, Y);
 
     return 0;
 }
