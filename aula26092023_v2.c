@@ -2,8 +2,6 @@
 
 using namespace std;
 
-
-
 int leitura(int &A, int &B){
     printf("Digite o valor de A: \n");
     scanf("%d", &A);
