@@ -11,8 +11,9 @@ void leitura(int &A, int &B){
 }
 
 void pares(int A, int B){
-    if(A%2==0 && B%2==0)
+    if(A%2==0 && B%2==0){
         printf("São pares\n");
+    }
 }
 
 int main()
